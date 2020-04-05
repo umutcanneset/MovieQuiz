@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MovieQuiz</string>
+
+    <string name="name">MOVIEQUIZ</string>
+    <string name="startButton">START</string>
+    <string name="settingsButton">SETTINGS</string>
+    <string name="continueButton">CONTINUE</string>
+    <string name="settingsName">SETTINGS</string>
+    <string name="rulesName">Rules:</string>
+    <string name="rules">Every right answer gives 100 points, every wrong answer subtract 50 points. Player can leave with saving it or without saving it. You can use you jokers once. You can either skip the question or eliminate the half of the choices. </string>
+    <string name="sound">Sound</string>
+    <string name="Joker">Joker</string>
+    <string name="mainMenuButton">MAIN MENU</string>
+    <string name="pointsName">POINTS:</string>
+    <string name="FiftyButton">50/50</string>
+    <string name="skipButton">SKIP</string>
+    <string name="quitButton">QUIT</string>
+    <string name="saveButton">SAVE</string>
+    <string name="value">0</string>
+</resources>

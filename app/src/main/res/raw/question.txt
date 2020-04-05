@@ -1,0 +1,15 @@
+F;Which war movie won the Academy Award for Best Picture in 2009?;The Hurt Locker;Avatar;Zombieland;Inglorious Bastards;A
+F;In which year were the Academy Awards, or "Oscars", first presented?;1938;1929;1941;1910;B
+F;What is the name of the hobbit played by Elijah Wood in the Lord of the Rings movies?;Aragorn;Boromir;Frodo;Gandalf;C
+F;Which actress plays Katniss Everdeen in the Hunger Games movies?;Alison Brie;Jennifer Connely;Elisha Cuthberg;Jennifer Lawrence;D
+F;Which English actor won the 2014 Academy Award for best actor for his role in The Theory of Everything?;Eddie Redmayne;Benedict Cumberbatch;Idris Elba;Tom Hardy;A
+F;Which Tom Hanks movie won the Academy Award for Best Picture in 1994?;Cast Away;Forrest Gump;Green Mile;Terminal;B
+F;Who starred as Juno MacGuff opposite Michael Cera in the 2007 film Juno??;Natalie Portman;Anne Hattaway;Ellen Page;Dieane Keaton;C
+F;Who is the world-famous writer and director of "Seven Samurai"?;Akira Kurosawa;Quentin Tarantino;Kim Ki Duk;Steven Spielberg;A
+F;What is the name of the main villain of "the Matrix"?;Neo;Agent Smith;Morpheus;Prophet;B
+F;The two main characters in "Pulp Fiction" belong to which profession?;Actors;Boxers;Hitmen;Plumbers;C
+F;What is the longest movie ever made?;The Stand;The Cure for Insomnia;Dance with Wolves;Hamlet;B
+F;Who is the artist of the musics of Inception?;Ramin Djawadi;Roy Partlan;Hans Zimmer;Arif Mardin;C
+F;Where did Harry Potter go to school?;Hogwarts;Dreamland;FMV University;Mordor;A
+F;Who was the main villain in Avengers: Infinity War?;Ronan;Thanos;Captain America;Prophet;B
+F;Who directed Dark Knight trilogy?;Martin Scorsese;Wes Anderson;Christopher Nolan;Quentin Tarantino;C
